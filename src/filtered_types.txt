@@ -1,0 +1,240 @@
+1981 hungerstriker
+_governor
+_officeholder
+_person
+_politician
+_president
+_scientist
+academic
+actor
+actress
+adult biography
+afl biography
+alpine ski racer
+am
+amateur wrestler
+ambassador
+american football person
+american indian chief
+animanga character
+archbishop
+architect
+artist
+association football person
+astronaut
+athlete
+author
+aviator
+badminton player
+bandy biography
+baseball biography
+baseball person
+basketball biography
+basketball person
+basketball player
+biathlete
+biography
+bishop
+bodybuilder
+boxer
+buddha
+bullfighting career
+canadianmp
+canadiansenator
+celebrity
+cfl biography
+cfl player
+champ car driver
+character
+chef
+chemist
+chess biography
+chess player
+christian leader
+classical composer
+clergy
+climber
+college coach
+college football player
+college mascot
+comedian
+comics character
+comics creator
+composer
+congressman
+cricketer
+cricketer biography
+criminal
+curler
+cyclist
+dancer
+darts player
+deputy prime minister
+director
+economist
+egyptian dignitary
+emperor
+engineer
+engineering career
+equestrian
+f1 driver
+fashion designer
+fbi ten most wanted
+fencer
+field hockey player
+figure skater
+first lady
+football biography
+football official
+g.i. joe character
+gaa dualplayer
+gaa manager
+gaa player
+gaelic athletic association player
+go player
+golfer
+governor
+governor general
+gridiron football person
+gymnast
+handball biography
+hindu leader
+horseracing personality
+ice hockey person
+ice hockey player
+indian  politician
+indian politician
+isle of man tt races
+jewish leader
+journalist
+judge
+lacrosse player
+latter day saint biography
+lds biography
+le mans driver
+lt governor
+magic: the gathering player
+martial artist
+martyrs
+mascot
+mayor
+medical details
+medical person
+military officer
+military person
+minister
+mla
+mlb mascot
+mlb player
+model
+monarch
+motocross rider
+motorcycle rider
+motorsports person
+mountaineer
+mp
+murderer
+musical  artist
+musical artist
+musician
+nahua officeholder
+nascar  driver
+nascar crew chief
+nascar driver
+national hockey league coach
+native american leader
+nba biography
+nbl player
+ncaa athlete
+netball biography
+nfl biography
+nfl player
+nhl coach
+noble
+npb player
+office holder
+officeholder
+other person
+other sportsperson
+pageant titleholder
+patriarch
+peer
+pelotari
+person
+pharaoh
+philosopher
+physician
+pirate
+playboy playmate
+player of english billiards
+playwright
+poet
+poker player
+police officer
+politician
+pool player
+presenter
+president
+pretender
+prime minister
+pro gaming player
+professional bowler
+professional wrestler
+publisher
+quebecmna
+racing driver
+religious biography
+religious person
+rival schools character
+roman emperor
+royalty
+royalty and nobility
+rugby biography
+rugby league biography
+sailor
+saint
+scholar
+scientist
+senator
+serial killer
+ski jumper
+skier
+snooker player
+soap character
+soldier
+speed skater
+speedway rider
+sport wrestler
+sports announcer
+sports announcer details
+sportsperson
+spy
+squash player
+state senator
+sumo wrestler
+surfer
+swimmer
+table tennis player
+tennis biography
+theologian
+theological work
+tolkien character
+transformers character
+twitch streamer
+uruguayan politician
+us ambassador
+user
+venture bros character
+vice president
+video game player
+volleyball biography
+volleyball player
+war on terror detainee
+water polo biography
+wikipedia user
+wikipedia vandal
+wot detainees
+wrc driver
+wrestler
+writer
+youtube personality
