@@ -1,5 +1,19 @@
 # VyhladavanieInformacii
 
+#### Sparsovanie osôb wikipédie, vytvorenie nástroja, ktorý po zadaní dvoch mien určí, či sa dané osoby mohli niekedy počas ich života stretnúť. Informácia o možnosti stretnutia / nestretnutia bude vychádzať z datasetu z údajov:
+
+• dátumy narodenia<br />
+• dátumy úmrtia<br />
+• lokácie miesta narodenia a miesta úmrtia, ktoré by mohli dopomôcť určiť výšku pravdepodobnosti stretnutia<br />
+
+Na základe týchto údajov nástroj určí, či sa osoba A mohla stretnúť s osobou B.
+
+Príklad:
+
+Albert Einstein (* 14. marec 1879, Ulm, Nemecké cisárstvo – † 18. apríl 1955, Princeton, New Jersey, USA)
+Neil Alden Armstrong (* 5. august 1930, Wapakoneta[1] – † 25. august 2012, Cincinnati[2])
+Albert Einstein a Neil Alden Armstrong sa na základe dátumov mohli stretnúť. Ak berieme ohľad aj na miesta narodenia a úmrtia, tak je tu vyššia šanca stretnutia, pretože Albert Einstein zomrel v USA a Neil Alden Armstrong sa narodil aj zomrel v USA, čiže sa tu nachádza aj prekryv miest.
+
 Program obsahuje 3 časti, ktoré sú spustiteľné nezávisle od seba ako 3 rôzne programy:
   - Parser
   - Indexer
